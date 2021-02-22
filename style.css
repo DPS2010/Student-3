@@ -1,0 +1,32 @@
+
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.news_item {
+    margin-top: 15px;
+    
+}
+.travelMain_div {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border: 5px solid #000000;
+    height: 400px;
+}
+.achievement {
+    margin-bottom:20px;
+}
+.news_image {
+    height: 330px;
+    width: 330px
+}
